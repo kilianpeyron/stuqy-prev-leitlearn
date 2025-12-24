@@ -1,16 +1,16 @@
-![Leitlearn Logo](https://i.ibb.co/8grdRKxN/Leitlearn.png)
+![Stuqy Logo](https://vstatic.stuqy.com/v1/stuqy.avif)
 
-# Leitlearn
+# Stuqy
 
 ## New version
-The active, maintained version is available at [leitlearn.com](https://leitlearn.com).
+The active, maintained version is available at [Stuqy.com](https://Stuqy.com).
 
 This new version has been completely rewritten with a much more modern and robust stack:
 - **Next.js** framework (App Router + Server Components)
 - **Prisma ORM** for type-safe, efficient and maintainable database interactions
 - Advanced CI/CD pipeline with automated tests, linting, type-checking, and **automatic deployment to Vercel on every tag** (`vX.Y.Z` → instant production deploy via GitHub Actions + Vercel integration)
 
-Check out the launch blog post: [Leitlearn Beta is here! 🚀](https://www.kilianpeyron.com/blog/leitlearn-beta-is-available)
+Check out the launch blog post: [Stuqy Beta is here! 🚀](https://www.kilianpeyron.com/blog/from-leitlearn-to-stuqy)
 
 ## Project Status
 - New Features: I am currently working on a new, big feature for the project.
